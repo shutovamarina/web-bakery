@@ -44,14 +44,16 @@ body {
 
 .price {
     background-color: #fbeee0;
+}
+
+.wrapper {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    margin: 20px;
+    flex-wrap: wrap;
 }
 
 .item {
-    margin: 50px;
+    margin: 20px;
     width: 350px;
     height: 580px;
     display: flex;
